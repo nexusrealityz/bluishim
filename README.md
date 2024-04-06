@@ -1,7 +1,6 @@
-### hi, im nexus
-
-- collabing with @Snakecodr11 on a soundboard
-- i post random things, ignore it
-- i make gorilla tag cheats
-- im learning c# and html
-- only collabing with friends
+### hi, im blu
+### here are some things about me / current projects
+- gtag copy (releasing on sidequest 4/6/24)
+- soundboard collab wit @Snakecodr11
+- gtag mod maker (and mod templates)
+- if you need help, contact @djvw on discord
