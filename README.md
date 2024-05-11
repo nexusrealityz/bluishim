@@ -4,4 +4,4 @@
 - soundboard collab wit @Snakecodr11
 - gtag mod maker (and mod templates)
 - if you need help, contact @djvw on discord
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?bluishim=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bluishim)](https://github.com/anuraghazra/github-readme-stats)
