@@ -1,9 +1,5 @@
-## im misa :)
-- c#
-- js
-- html
-- css
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bluishim&show_icons=true)
+## im nexus :)
+- owner of project nexus
+- cool guy
+- html and css and js
+- collab often with Snakecodr11, check him out
